@@ -1,0 +1,22 @@
+.nav {
+  height: 70px;
+  transition: all 0.5s;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.nav__logo {
+  width: 80px;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+.nav__avatar {
+  width: 30px;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
+.showBlack {
+  background-color: #111;
+}
